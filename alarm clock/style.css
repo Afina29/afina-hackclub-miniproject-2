@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding-top: 20%;
+    color: white;
+    background-color: #000000;    ;
+    margin:0;
+    font-family: Phantom Sans;
+    text-align: center;
+}
